@@ -47,6 +47,7 @@
 *********
 *********
 *********
+      *change for change sake 
        01  SALES-RATE-TABLE.
            05  FILLER          PIC SV99  VALUE  +.02.
            05  FILLER          PIC SV99  VALUE  +.04.
